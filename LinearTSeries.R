@@ -29,7 +29,6 @@ plot.ts(X)
 
 # A) CLASSICAL DECOMPOSITION #
 
-plot.ts(cumsum(X))
 periodicity <- 1                                                         # INPUT
 
 # Let X = s(seasonality) + m(trend) + Y(random noise)
